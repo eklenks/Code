@@ -1,5 +1,5 @@
-## Initial Page
+# Initial Page
 
-# starts here
+### starts here
 
 building out main page
