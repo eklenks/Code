@@ -1,6 +1,8 @@
 # Python Notebooks
 Feel free to download or use any python scripts.
+
 Cointegration.ipynb: How Canadian Banking Stocks move together
+
 graphs.ipynb: some interesting financial plots
 
 ## Econ folder
