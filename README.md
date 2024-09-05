@@ -1,5 +1,5 @@
 # Python Notebooks
-Feel free to download or use any python scripts.
+Thanks for checking out my python scripts!
 
 Cointegration.ipynb: How Canadian Banking Stocks move together
 
