@@ -2,7 +2,9 @@
 Thanks for checking out my python scripts! And LFG
 
 Cointegration.ipynb
+
 How Canadian Banking Stocks move together
+
 
 graphs.ipynb: some interesting financial plots
 
