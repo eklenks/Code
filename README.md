@@ -8,11 +8,15 @@ graphs.ipynb: some interesting financial plots
 ## Econ folder
 Work done for Uvic. Mainly linear Algeba applications for Macroeconomics.
 
-### Required terminal commands:
+### Required Commands
 pip install numpy
+
 pip install pandas
+
 pip install quantstats
+
 pip install yfinance
+
 pip install matplotlib
 
 #### Other 
