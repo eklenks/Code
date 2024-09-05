@@ -1,12 +1,10 @@
 # Python Notebooks
 Thanks for checking out my python scripts! And LFG
-
-Cointegration.ipynb: How Canadian Banking Stocks move together
+* Cointegration.ipynb: How Canadian Banking Stocks move together
 
 ## Econ folder
 Work done for Uvic. Mainly linear algebra applications and some large scale macro models.
-
-graphs.ipynb: some interesting financial plots
+* graphs.ipynb: some interesting financial plots
 
 ### Required Commands
 pip install numpy
