@@ -1,5 +1,5 @@
 # Python Notebooks
-Thanks for checking out my python scripts! And LFG
+Thanks for checking out my  scripts :) LFG
 * Cointegration.ipynb: How Canadian Banking Stocks move together
 
 ## Econ folder
