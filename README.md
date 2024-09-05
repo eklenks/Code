@@ -1,5 +1,4 @@
-# Initial Page
+# Python Notebooks
 
-## starts here
-
-building out main page
+## Required terminal commands:
+pip install numpy
