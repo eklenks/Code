@@ -1,0 +1,13 @@
+{
+    "workbench.editor.defaultBinaryEditor": "jupyter-notebook",
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "expand",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.pinnedTabSizing": "shrink",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.autoLockGroups": {
+        "jupyter-notebook": true,
+        "workbench.editor.chatSession": true
+    },
+    "window.density.editorTabHeight": "default"
+}
