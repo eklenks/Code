@@ -12,10 +12,9 @@
 
     Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, quarterly, monthly rate). Incorporate short positions in dynamic allocations (long only, 75,25%, 50/50) based on interest rates
 
-* Cowboy Program: long/short 1 day straddle positions (spx)
+* Cowboy Program: infrequently trades low risk high reward opportunities
 
-    1) Targets buying SPX straddles when implied volatility is high.
-    2) Targets arbitrage opportunities during earnings.
+    Exploring buying SPX straddles when implied volatility is high and arbitrage opportunities during earnings.
 
 * Hedging Program: Finding ways to derisk the overall portfolio
 
