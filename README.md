@@ -14,7 +14,7 @@
 
 * Cowboy Program: infrequently trades low risk high reward opportunities
 
-    Explores buying SPX straddles when implied volatility is high and arbitrage opportunities during earnings.
+    Explores buying 1 day SPX straddles under certain conditions (high IV) and arbitrage opportunities around earnings dates and dividend dates.
 
 * Hedging Program: Derisking the overall portfolio
 
