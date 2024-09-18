@@ -1,7 +1,7 @@
 # Main Notebooks
-* Backtesting Signals: Use of trading signals, returns vs SPX
-* Portfolio Optimization: Capstone Finance Project. My best code
-* Statistical Cointegration: How stocks move together, allocating in pairs/groups
+* Portfolio Optimization: Capstone Finance Project for the CFA Society
+* Backtesting Signals: Using trading signals, comparing returns vs SPX
+* Statistical Cointegration: Stationarity tests, allocating between pairs
 
 ## Trading Systems
 * Bond Program: long vs short bonds based on Central Bank rates
@@ -15,8 +15,6 @@ Work done under Uvic - linear algebra applications, large scale macro models.
 If downloading and using a terminal use pip to install:
 
 numpy, pandas, quantstats, yfinance, matplotlib
-
-WIP: Work in Progress. 
 
 Github Folder: Other's work.
 
