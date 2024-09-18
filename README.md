@@ -8,13 +8,14 @@
 
     Automated rotation between 4 positions (buy/sell, short/long term) given a projected short term rate schedule. If drawdowns are reduced, determine optimal leverage profile.
 
-* Equity Program: long/short equity basket based on spx rates
+* Equity Program: long/short equity basket based on statistical projections
 
-    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, quarterly, monthly rate). Incorporate short positions in dynamic allocations (long only, 75,25%, 50/50) 
+    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, quarterly, monthly rate). Incorporate short positions in dynamic allocations (long only, 75,25%, 50/50) based on interest rates
 
-* Cowboy Program: long/short 1 day straddle positions (spx, imp vol)
+* Cowboy Program: long/short 1 day straddle positions (spx)
 
-    Targets buying SPX straddles when implied volatility is high. Incorporate earnings date arbitrage strategy.
+    1) Targets buying SPX straddles when implied volatility is high.
+    2) Targets arbitrage opportunities during earnings.
 
 * Hedging Program: Finding ways to derisk the overall portfolio
 
