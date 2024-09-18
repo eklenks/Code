@@ -2,6 +2,7 @@
 * Backtesting Signals: Use of trading signals, returns vs SPX
 * Portfolio Optimization: Capstone Finance Project. My best code
 * Statistical Cointegration: How stocks move together, allocating in pairs/groups
+
 * Bond Program: long vs short bonds based on Central Bank rates
 * Equity Program: long vs short tech basket based on spx rates (and vol)
 * Cowboy Program: long vs short 1 day straddle positions based on vol rates
