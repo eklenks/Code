@@ -10,7 +10,7 @@
 
 * Equity Program: long only equity basket based on statistical projections
 
-    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, monthly). Reduces long positions when implied volatility is high
+    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, monthly). Incoporate reducing long positions when implied volatility is high
 
 * Cowboy Program: infrequently trades low risk high reward opportunities
 
