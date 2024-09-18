@@ -1,21 +1,21 @@
 # Python Notebooks
-Thanks for checking out my  scripts :) LFG
-* Cointegration.ipynb: How Canadian Banking Stocks move together
+* Backtesting Signals: Use of trading signals, returns vs SPX
+* Portfolio Optimization: Capstone Finance Project. My best code
+* Statistical Cointegration: How Stocks move together, allocating in groups
+* Bond Program: long vs short bonds based on Central Bank rates
+* Equity Program: long vs short tech basket based on spx rates (and vol)
+* Cowboy Program: long vs short 1 day straddle positions based on vol rates
 
 ## Econ folder
-Work done for Uvic. Mainly linear algebra applications and some large scale macro models.
-* graphs.ipynb: some interesting financial plots
+Work done under Uvic - linear algebra applications, large scale macro models.
 
-### Required Commands
-pip install numpy
+### Other 
+If downloading and using a terminal use pip to install:
 
-pip install pandas
+numpy, pandas, quantstats, yfinance, matplotlib
 
-pip install quantstats
+wip: Work in Progress. 
 
-pip install yfinance
+Github Folder: Other's work.
 
-pip install matplotlib
-
-#### Other 
-New scripts are under development. Other folders may not be mine.
+Note: Dataset is minimal. Should use a dataset with intraday data rather than daily
