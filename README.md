@@ -11,7 +11,7 @@
 ## Econ folder
 Work done under Uvic - linear algebra applications, large scale macro models.
 
-### Other 
+## Other 
 If downloading and using a terminal use pip to install:
 
 numpy, pandas, quantstats, yfinance, matplotlib
