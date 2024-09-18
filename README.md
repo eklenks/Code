@@ -21,7 +21,7 @@
     Adds short positions in dynamic allocations (long only, 75,25%, 50/50) based on interest rates. Incorporates low beta positions to reduce volatility (Gold, Bitcoin)
 
 ## Econ folder
-Work done under Uvic - linear algebra applications, large scale macro models.
+Work done under Uvic - linear algebra applications, large scale macro models, educational materials. 
 
 ### Notes
  Dataset from yfinance may be minimal and limited to daily prices
