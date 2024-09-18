@@ -16,6 +16,4 @@ If downloading and using a terminal use pip to install:
 
 numpy, pandas, quantstats, yfinance, matplotlib
 
-Github Folder: Other's work.
-
 Note: Dataset may be minimal and limited to daily prices
