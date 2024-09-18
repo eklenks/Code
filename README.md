@@ -10,15 +10,15 @@
 
 * Equity Program: long only equity basket based on statistical projections
 
-    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, monthly). 
+    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, monthly). Reduces long positions when implied volatility is high
 
 * Cowboy Program: infrequently trades low risk high reward opportunities
 
     Explores buying SPX straddles when implied volatility is high and arbitrage opportunities during earnings.
 
-* Hedging Program: Finding ways to derisk the overall portfolio
+* Hedging Program: Derisking the overall portfolio
 
-    Reduces equity positions into cash when implied volatility is high. Incorporate short positions in dynamic allocations (long only, 75,25%, 50/50) based on interest rates. Incorporate low beta positions that reduce volatility of the portfolio (Gold, Bitcoin)
+    Adds short positions in dynamic allocations (long only, 75,25%, 50/50) based on interest rates. Incorporates low beta positions to reduce volatility (Gold, Bitcoin)
 
 ## Econ folder
 Work done under Uvic - linear algebra applications, large scale macro models.
