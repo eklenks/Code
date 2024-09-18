@@ -8,9 +8,9 @@
 
     Automated rotation between 4 positions (buy/sell, short/long term) given a projected short term rate schedule. If drawdowns are reduced, determine optimal leverage profile.
 
-* Equity Program: long/short equity basket based on statistical projections
+* Equity Program: long only equity basket based on statistical projections
 
-    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, quarterly, monthly rate). Incorporate short positions in dynamic allocations (long only, 75,25%, 50/50) based on interest rates
+    Automated rotation between 3-12 equities within the S&P 500 that are outperforming the overall index. Find optimal rotation periods between equities, given short and long term projected rates (yearly, monthly). 
 
 * Cowboy Program: infrequently trades low risk high reward opportunities
 
@@ -18,7 +18,7 @@
 
 * Hedging Program: Finding ways to derisk the overall portfolio
 
-    Reduces equity positions into cash when implied volatility is high. Incorporate low beta positions that reduce volatility of the portfolio (Gold, Bitcoin)
+    Reduces equity positions into cash when implied volatility is high. Incorporate short positions in dynamic allocations (long only, 75,25%, 50/50) based on interest rates. Incorporate low beta positions that reduce volatility of the portfolio (Gold, Bitcoin)
 
 ## Econ folder
 Work done under Uvic - linear algebra applications, large scale macro models.
