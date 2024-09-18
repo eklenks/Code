@@ -18,4 +18,5 @@ numpy, pandas, quantstats, yfinance, matplotlib
 
 ### Notes
  Dataset from yfinance may be minimal and limited to daily prices
+ 
  Should work on incorporating with a brokers API
